@@ -1,0 +1,477 @@
+.26LightSleepTracker {
+  justify-content: center;
+  background: var(--surface-light-dark-light-background, #f5f5f5);
+  background-color: var(--surface-light-dark-light-background, #f5f5f5);
+  display: flex;
+  max-width: 480px;
+  width: var(--Width-and-Height-Full-Width, 430px);
+  padding-top: 9px;
+  flex-direction: column;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.typeStatusBarThemeLightComponentStatusBar {
+  align-self: center;
+  display: flex;
+  width: 100%;
+  max-width: 384px;
+  gap: 20px;
+  justify-content: space-between;
+}
+.941 {
+  color: var(--Surface-General-Black, #000);
+  letter-spacing: 0.2Px;
+  font: 600 16px/1.6 Urbanist, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+.div {
+  display: flex;
+  gap: 5px;
+  margin: auto 0;
+}
+.img {
+  aspect-ratio: 1.8;
+  object-fit: contain;
+  object-position: center;
+  width: 18px;
+  margin: auto 0;
+}
+.img2 {
+  aspect-ratio: 1.36;
+  object-fit: contain;
+  object-position: center;
+  width: 15px;
+  align-self: start;
+}
+.img3 {
+  aspect-ratio: 2.08;
+  object-fit: contain;
+  object-position: center;
+  width: 27px;
+  border-radius: 0px 0px 0px 0px;
+}
+.navbarNavbarFullDarkFalseComponentNavbar {
+  display: flex;
+  margin-top: 9px;
+  align-items: center;
+  gap: 16px;
+  justify-content: start;
+  padding: 12px 24px;
+}
+.navbarDefaultDarkFalseComponentNavbar {
+  align-self: stretch;
+  display: flex;
+  min-width: 240px;
+  min-height: 48px;
+  width: 100%;
+  align-items: center;
+  gap: 16px;
+  justify-content: start;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+  padding: 5px 0;
+}
+.autoLayoutHorizontal {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  justify-content: start;
+  width: 28px;
+  margin: auto 0;
+}
+.img4 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 28px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.titleSection {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--Text-General-Text-Light, #212121);
+  text-align: center;
+  text-overflow: ellipsis;
+  align-self: stretch;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+  font: 700 24px/1.6 Urbanist, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+.autoLayoutHorizontal2 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: end;
+  width: 28px;
+  margin: auto 0;
+}
+.img5 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 28px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.autoLayoutVertical {
+  display: flex;
+  min-height: 726px;
+  width: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 8px 24px 24px;
+}
+.autoLayoutVertical2 {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: start;
+}
+.elementSetSleepTime1DarkFalseComponentHomeTracker {
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  min-height: 364px;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  padding: 0 12px;
+}
+.img6 {
+  aspect-ratio: 0.98;
+  object-fit: contain;
+  object-position: center;
+  width: 300px;
+  border-radius: 0px 0px 0px 0px;
+  max-width: 100%;
+}
+.elementBedtimeWakeUpDarkFalseComponentHomeTracker {
+  display: flex;
+  margin-top: 20px;
+  width: 100%;
+  align-items: start;
+  gap: 16px;
+  font-family: Urbanist, sans-serif;
+  line-height: 1.6;
+  justify-content: start;
+}
+.autoLayoutVertical3 {
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+  justify-content: center;
+  flex: 1;
+  flex-basis: 0%;
+  padding: 12px 12px 10px;
+}
+.autoLayoutHorizontal3 {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--Text-Greyscale-700, #616161);
+  font-weight: 400;
+  letter-spacing: 0.2Px;
+  justify-content: start;
+}
+.img7 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 20px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.bedtime {
+  align-self: stretch;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+}
+.img8 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 20px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.2230 {
+  color: var(--Text-General-Text-Light, #212121);
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 8px;
+}
+.autoLayoutVertical4 {
+  border-radius: 6px;
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1;
+  flex-basis: 0%;
+  padding: 12px 12px 10px;
+}
+.autoLayoutHorizontal4 {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--Text-Greyscale-700, #616161);
+  font-weight: 400;
+  white-space: nowrap;
+  letter-spacing: 0.2Px;
+  justify-content: start;
+}
+.img9 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 20px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.alarm {
+  align-self: stretch;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+}
+.img10 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 20px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.05300600 {
+  color: var(--Text-General-Text-Light, #212121);
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 8px;
+}
+.elementAlarmRepeatDarkFalseComponentHomeTracker {
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  margin-top: 20px;
+  width: 100%;
+  flex-direction: column;
+  justify-content: start;
+  padding: 16px;
+}
+.elementsSettingsList1DarkFalseComponentAdditionalElements {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 16px;
+  font-family: Urbanist, sans-serif;
+  color: var(--Text-General-Text-Light, #212121);
+  font-weight: 600;
+  line-height: 1.6;
+  justify-content: start;
+}
+.settings {
+  font-size: 18px;
+  align-self: stretch;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+}
+.settings2 {
+  text-align: right;
+  font-size: 16px;
+  letter-spacing: 0.2Px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.img11 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 24px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.darkFalseComponentDivider {
+  display: flex;
+  margin-top: 16px;
+  width: 100%;
+  flex-direction: column;
+}
+.line {
+  height: 1px;
+  border: 1px solid rgba(238, 238, 238, 1);
+}
+.elementsSettingsList1DarkFalseComponentAdditionalElements2 {
+  display: flex;
+  margin-top: 16px;
+  width: 100%;
+  align-items: center;
+  gap: 16px;
+  font-family: Urbanist, sans-serif;
+  color: var(--Text-General-Text-Light, #212121);
+  font-weight: 600;
+  white-space: nowrap;
+  line-height: 1.6;
+  justify-content: start;
+}
+.settings3 {
+  text-align: right;
+  font-size: 16px;
+  letter-spacing: 0.2Px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.img12 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 24px;
+  align-self: stretch;
+  margin: auto 0;
+}
+.buttonPillTypePillIconFalseSizeMediumStylePillSocialMediaNoneDisabledFalseThemeDefaultComponentButton {
+  border-radius: 1000px;
+  background-color: rgba(85, 88, 255, 1);
+  margin-top: 20px;
+  width: 100%;
+  color: var(--Text-Buttons-White, #fff);
+  text-align: center;
+  letter-spacing: 0.2Px;
+  padding: 16px;
+  font: 700 16px/1.6 Urbanist, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+.activeMenuHomeDarkFalseComponentMenuBar {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  width: 100%;
+  padding-top: 8px;
+  flex-direction: column;
+  justify-content: start;
+}
+.autoLayoutHorizontal5 {
+  display: flex;
+  min-height: 48px;
+  width: 100%;
+  align-items: center;
+  gap: 16px;
+  color: var(--Text-Components-Menu-Bar-Text-500, #9e9e9e);
+  white-space: nowrap;
+  text-align: center;
+  letter-spacing: 0.2Px;
+  justify-content: center;
+  padding: 0 24px;
+  font: 500 10px/1.6 Urbanist, -apple-system, Roboto, Helvetica,
+    sans-serif;
+}
+.autoLayoutVertical5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  color: var(--Text-Additionals-Light-Brand, #5558ff);
+  font-weight: 700;
+  justify-content: start;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+}
+.img13 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 24px;
+  align-self: center;
+}
+.autoLayoutVertical6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+}
+.img14 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 24px;
+  align-self: center;
+}
+.autoLayoutVertical7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+}
+.img15 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 24px;
+  align-self: center;
+}
+.autoLayoutVertical8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+}
+.img16 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 24px;
+  align-self: center;
+}
+.autoLayoutVertical9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  flex: 1;
+  flex-basis: 0%;
+  margin: auto 0;
+}
+.img17 {
+  aspect-ratio: 1;
+  object-fit: contain;
+  object-position: center;
+  width: 24px;
+  align-self: center;
+}
+.darkFalse {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  padding: 21px 80px 8px;
+}
+.vector {
+  border-radius: 100px;
+  background-color: rgba(224, 224, 224, 1);
+  display: flex;
+  width: 134px;
+  height: 5px;
+}
